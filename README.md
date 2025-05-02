@@ -4,6 +4,8 @@ A simple yet powerful web application to track your monthly expenses. Built with
 
 ![Expense Tracker Preview](Expense-Tracker-working.png)
 
+---
+
 ## ✨ Features
 
 - **Add expenses** with description, amount, category, and date
@@ -13,6 +15,8 @@ A simple yet powerful web application to track your monthly expenses. Built with
 - **Persistent storage** using localStorage to save your data between sessions
 - **Responsive design** that works on both desktop and mobile devices
 
+---
+
 ## 🛠️ Technologies Used
 
 - **HTML5** - For structure and layout
@@ -21,9 +25,13 @@ A simple yet powerful web application to track your monthly expenses. Built with
 - **Chart.js** - For data visualization
 - **LocalStorage API** - For data persistence
 
+---
+
 ## 🚀 Deployed on
 
--https://onkar-kambale.github.io/Expense-Tracker/
+- https://onkar-kambale.github.io/Expense-Tracker/
+
+---
 
 ### ➕ Adding Expenses
 
@@ -35,9 +43,13 @@ A simple yet powerful web application to track your monthly expenses. Built with
 
 2. Click "Add Expense" to save the expense.
 
+---
+
 ## 🎥 Video 
 
 ![Expense Tracker video](expense-tracker.mp4)
+
+---
 
 ## 🌐 Browser Compatibility
 
@@ -46,6 +58,8 @@ Works with all modern browsers:
 - Firefox
 - Safari
 - Edge
+
+---
 
 ## 📄 License
 
